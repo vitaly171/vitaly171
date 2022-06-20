@@ -19,6 +19,11 @@
 </h1>
 </div>
 
+### 👨‍💻: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :mailbox:In case you want to know about me more, please reach me out : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vitaly-ivlev-a74aa5169)
+
+
 
 
 <!--
