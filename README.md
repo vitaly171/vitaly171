@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me :
 I am inspired by IT innovations Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with experience in : JavaScript, HTML/CSS, Node.js, React. I do not stop there, I always try to improve my skills and be in the trend of new technologies. Adept at contributing to a highly collaborative environment, finding solutions, and determining customer satisfaction.
 
-- :mailbox:In case you want to know about me more, please reach me out : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vitaly-ivlev-a74aa5169)
+- :mailbox:In case you want to know about me more, please reach me out : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitaly-ivlev-a74aa5169)
 
 ---
 
